@@ -20,4 +20,4 @@ public class GraphMain {
         g.adjacencyMatrix();
     }
 }
-// OUTPUT;
+// OUTPUT TES;
